@@ -1,2 +1,6 @@
 Este es el archivo file1
+<<<<<<< HEAD
 cambio desde main
+=======
+Line added by the branch release 12.21
+>>>>>>> release_12.21
